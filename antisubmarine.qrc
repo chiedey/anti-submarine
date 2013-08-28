@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="/background">pictures/background.png</file>
+        <file alias="/bomb">pictures/bomb.gif</file>
+        <file alias="/diver">pictures/diver.png</file>
+        <file alias="/copter">pictures/copter.png</file>
+        <file alias="/explosion">pictures/explosion.png</file>
+    </qresource>
+</RCC>
