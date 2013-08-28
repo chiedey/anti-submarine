@@ -3,7 +3,7 @@
 
 int main( int argc, char *argv[] )
 {
-    QApplication app( argc, argv );
+  /*    QApplication app( argc, argv );
     //初始化Qt资源文件
     Q_INIT_RESOURCE(antisubmarine);
     //设置随机种子
@@ -12,5 +12,5 @@ int main( int argc, char *argv[] )
     MainWindow gameClient;
     gameClient.show();
 
-    return app.exec();
+    return app.exec();*/
 }
